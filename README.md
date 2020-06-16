@@ -1,1 +1,1 @@
-# https://academy.nomadcoders.co/p/vanilla-js-part-two-kr
+# https://nomadcoders.co/javascript-for-beginners-2
